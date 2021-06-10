@@ -1,0 +1,24 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadyunusuz/signup_mail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadyunusuz/signup_mail/issues"
+  },
+  "homepage": "https://github.com/muhammadyunusuz/signup_mail#readme",
+  "dependencies": {
+    "nodemailer": "^6.6.1"
+  }
+}
